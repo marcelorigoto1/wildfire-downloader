@@ -1,0 +1,4 @@
+dist/
+build_pyi/
+__pycache__/
+wildfire_downloader_config.json
